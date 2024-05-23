@@ -62,7 +62,7 @@ int main()
     const auto pid = memory::get_process_id_by_name("Tutorial-i386.exe");
     if (pid == -1) 
     {
-        std::cerr << "Process not found!" << '\n';
+        std::cerr << "Process not found\n";
         return 1;
     }
     
