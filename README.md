@@ -2,7 +2,7 @@
 
 ## Overview
 
-Memory.h is a C++ header file that provides a collection of functions and utilities for memory management and manipulation in a Windows environment. It includes functions for reading and writing to process memory, obtaining process information, and scanning memory regions for specific patterns.
+Memory.h is a C++ header file that provides a collection of functions and utilities for memory management and manipulation in a Windows environment which supports both x86 and x64 architectures. It includes functions for reading and writing to process memory, obtaining process information, and scanning memory regions for specific patterns.
 
 ## Features
 
